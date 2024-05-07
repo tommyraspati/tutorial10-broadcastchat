@@ -1,5 +1,4 @@
 # Tutorial 10 - Advanced Programming - Brodcast Chat Application
-**Akmal Ramadhan - 2206081534 - Kelas A**
 
 ## Original Code
 
